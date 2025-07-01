@@ -10,5 +10,8 @@
 
 ### Exercise 2
 - Create complex **topics** for Real Estate agent.
+  - Property listing and selling
+  - Property recommendations based on user preferences (price, location, type) - create like a form
+  - Feedback form for users based on agent responses 
 
 ### Exercise 3
