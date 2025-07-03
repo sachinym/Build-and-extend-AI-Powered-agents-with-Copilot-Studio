@@ -4,7 +4,7 @@
 
 ### Exercise 1
 - Create an agent in Copilot studio with name `Real Estate agent`.
-- Add public available website link to **knowledge** for the agent.
+- Create and use a website to use as **knowledge** for the agent.
 - Create basic **topics** for the agent.
 
 
